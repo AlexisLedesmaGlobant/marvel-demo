@@ -89,7 +89,7 @@ const Home = () => {
         )}
       </Container>
         <div className={styles.pagination}>
-          <Pagination count={1559} page={pageConfig.page} variant="outlined" shape="rounded" onChange={handleChange} />
+          <Pagination count={156} page={pageConfig.page} variant="outlined" shape="rounded" onChange={handleChange} />
         </div>
     </>
   )
