@@ -71,7 +71,7 @@ const Home = () => {
                       {hero.name}
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                      {hero.description ? hero.description : `No description founded`}
+                      {hero.description ? hero.description : `No description found`}
                     </Typography>
                   </CardContent>
                 </Card>
